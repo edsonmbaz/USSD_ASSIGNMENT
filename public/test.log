@@ -1,0 +1,268 @@
+[]
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_93024f113629665943cee4db848fb0a5","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_93024f113629665943cee4db848fb0a5&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_93024f113629665943cee4db848fb0a5","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_93024f113629665943cee4db848fb0a5&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is php","sessionId":"ATUid_93024f113629665943cee4db848fb0a5","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+php&sessionId=ATUid_93024f113629665943cee4db848fb0a5&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is php*hypertext preprocessor","sessionId":"ATUid_93024f113629665943cee4db848fb0a5","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+php%2Ahypertext+preprocessor&sessionId=ATUid_93024f113629665943cee4db848fb0a5&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_6c24b95150e044b00fefe549b5bec39a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_6c24b95150e044b00fefe549b5bec39a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_6c24b95150e044b00fefe549b5bec39a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_6c24b95150e044b00fefe549b5bec39a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*1","sessionId":"ATUid_6c24b95150e044b00fefe549b5bec39a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A1&sessionId=ATUid_6c24b95150e044b00fefe549b5bec39a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*1*0","sessionId":"ATUid_6c24b95150e044b00fefe549b5bec39a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A1%2A0&sessionId=ATUid_6c24b95150e044b00fefe549b5bec39a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_088b6c6d387d3572ab01cb6f2b18616b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_088b6c6d387d3572ab01cb6f2b18616b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_088b6c6d387d3572ab01cb6f2b18616b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_088b6c6d387d3572ab01cb6f2b18616b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is PDO","sessionId":"ATUid_088b6c6d387d3572ab01cb6f2b18616b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+PDO&sessionId=ATUid_088b6c6d387d3572ab01cb6f2b18616b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is PDO*php data object","sessionId":"ATUid_088b6c6d387d3572ab01cb6f2b18616b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+PDO%2Aphp+data+object&sessionId=ATUid_088b6c6d387d3572ab01cb6f2b18616b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is PDO*php data object*php opaque","sessionId":"ATUid_088b6c6d387d3572ab01cb6f2b18616b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+PDO%2Aphp+data+object%2Aphp+opaque&sessionId=ATUid_088b6c6d387d3572ab01cb6f2b18616b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is PDO*php data object*php opaque*none","sessionId":"ATUid_088b6c6d387d3572ab01cb6f2b18616b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+PDO%2Aphp+data+object%2Aphp+opaque%2Anone&sessionId=ATUid_088b6c6d387d3572ab01cb6f2b18616b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is PDO*php data object*php opaque*none*yp","sessionId":"ATUid_088b6c6d387d3572ab01cb6f2b18616b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+PDO%2Aphp+data+object%2Aphp+opaque%2Anone%2Ayp&sessionId=ATUid_088b6c6d387d3572ab01cb6f2b18616b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_f34b37a3f336492bf44fcb49734e7ae3","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_f34b37a3f336492bf44fcb49734e7ae3&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_f34b37a3f336492bf44fcb49734e7ae3","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_f34b37a3f336492bf44fcb49734e7ae3&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_36ad973df58dce25437e242c682b9709","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_36ad973df58dce25437e242c682b9709&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_772db156f2c165c9b9dd312c639011a9","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_772db156f2c165c9b9dd312c639011a9&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_36ad973df58dce25437e242c682b9709","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_36ad973df58dce25437e242c682b9709&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*0","sessionId":"ATUid_36ad973df58dce25437e242c682b9709","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A0&sessionId=ATUid_36ad973df58dce25437e242c682b9709&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_8607e79eb3b523e5f4f67bf5add63b78","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_8607e79eb3b523e5f4f67bf5add63b78&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_a6093f8d76c277e0c42a03335445697f","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_a6093f8d76c277e0c42a03335445697f&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_00749d8240d53cd8f34dd02d3a5d77dd","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_00749d8240d53cd8f34dd02d3a5d77dd&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_a6093f8d76c277e0c42a03335445697f","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_a6093f8d76c277e0c42a03335445697f&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_9e7a6667c8c2cae855251fb03023d0ae","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_9e7a6667c8c2cae855251fb03023d0ae&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_9e7a6667c8c2cae855251fb03023d0ae","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_9e7a6667c8c2cae855251fb03023d0ae&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_19422464969ef991aff932170cf2f99f","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_19422464969ef991aff932170cf2f99f&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_19422464969ef991aff932170cf2f99f","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_19422464969ef991aff932170cf2f99f&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*0","sessionId":"ATUid_19422464969ef991aff932170cf2f99f","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A0&sessionId=ATUid_19422464969ef991aff932170cf2f99f&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_0ca3c8a33bce05854b9bd360ca02cd75","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_0ca3c8a33bce05854b9bd360ca02cd75&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_0ca3c8a33bce05854b9bd360ca02cd75","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_0ca3c8a33bce05854b9bd360ca02cd75&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*0","sessionId":"ATUid_0ca3c8a33bce05854b9bd360ca02cd75","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A0&sessionId=ATUid_0ca3c8a33bce05854b9bd360ca02cd75&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_31ff0a1deec83bee8df97c7952676c33","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_31ff0a1deec83bee8df97c7952676c33&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"0","sessionId":"ATUid_31ff0a1deec83bee8df97c7952676c33","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=0&sessionId=ATUid_31ff0a1deec83bee8df97c7952676c33&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"0*2","sessionId":"ATUid_31ff0a1deec83bee8df97c7952676c33","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=0%2A2&sessionId=ATUid_31ff0a1deec83bee8df97c7952676c33&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_03d40d92243effc952afa354bae04325","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_03d40d92243effc952afa354bae04325&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_03d40d92243effc952afa354bae04325","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_03d40d92243effc952afa354bae04325&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*how are you","sessionId":"ATUid_03d40d92243effc952afa354bae04325","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Ahow+are+you&sessionId=ATUid_03d40d92243effc952afa354bae04325&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*how are you*fine","sessionId":"ATUid_03d40d92243effc952afa354bae04325","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Ahow+are+you%2Afine&sessionId=ATUid_03d40d92243effc952afa354bae04325&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*how are you*fine*not fine","sessionId":"ATUid_03d40d92243effc952afa354bae04325","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Ahow+are+you%2Afine%2Anot+fine&sessionId=ATUid_03d40d92243effc952afa354bae04325&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_ef8e1a1016b9397628e454147a523a00","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_ef8e1a1016b9397628e454147a523a00&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_ef8e1a1016b9397628e454147a523a00","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_ef8e1a1016b9397628e454147a523a00&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*0","sessionId":"ATUid_ef8e1a1016b9397628e454147a523a00","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A0&sessionId=ATUid_ef8e1a1016b9397628e454147a523a00&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_964b13bf76d013b5e8ecbc0772865eb0","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_964b13bf76d013b5e8ecbc0772865eb0&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_964b13bf76d013b5e8ecbc0772865eb0","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_964b13bf76d013b5e8ecbc0772865eb0&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*example of artical?","sessionId":"ATUid_964b13bf76d013b5e8ecbc0772865eb0","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Aexample+of+artical%3F&sessionId=ATUid_964b13bf76d013b5e8ecbc0772865eb0&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*example of artical?*An and A","sessionId":"ATUid_964b13bf76d013b5e8ecbc0772865eb0","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Aexample+of+artical%3F%2AAn+and+A&sessionId=ATUid_964b13bf76d013b5e8ecbc0772865eb0&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*example of artical?*An and A*By","sessionId":"ATUid_964b13bf76d013b5e8ecbc0772865eb0","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Aexample+of+artical%3F%2AAn+and+A%2ABy&sessionId=ATUid_964b13bf76d013b5e8ecbc0772865eb0&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_0bc4dcfb2d47cbe4db25b0bf7cf30654","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_0bc4dcfb2d47cbe4db25b0bf7cf30654&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_039c3db41b2276cd8ca74b8e75523f6a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_039c3db41b2276cd8ca74b8e75523f6a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_039c3db41b2276cd8ca74b8e75523f6a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_039c3db41b2276cd8ca74b8e75523f6a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_c6aff16ff0ae82f4ff9b048b30acaaf2","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_c6aff16ff0ae82f4ff9b048b30acaaf2&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_c6aff16ff0ae82f4ff9b048b30acaaf2","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_c6aff16ff0ae82f4ff9b048b30acaaf2&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is example of artical","sessionId":"ATUid_c6aff16ff0ae82f4ff9b048b30acaaf2","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+example+of+artical&sessionId=ATUid_c6aff16ff0ae82f4ff9b048b30acaaf2&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_9e20bd3f38e9781168f259949e7dc00a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_9e20bd3f38e9781168f259949e7dc00a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_9e20bd3f38e9781168f259949e7dc00a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_9e20bd3f38e9781168f259949e7dc00a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is articale example","sessionId":"ATUid_9e20bd3f38e9781168f259949e7dc00a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+articale+example&sessionId=ATUid_9e20bd3f38e9781168f259949e7dc00a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is articale example*a and an","sessionId":"ATUid_9e20bd3f38e9781168f259949e7dc00a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+articale+example%2Aa+and+an&sessionId=ATUid_9e20bd3f38e9781168f259949e7dc00a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is articale example*a and an*a and for","sessionId":"ATUid_9e20bd3f38e9781168f259949e7dc00a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+articale+example%2Aa+and+an%2Aa+and+for&sessionId=ATUid_9e20bd3f38e9781168f259949e7dc00a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is articale example*a and an*a and for*for","sessionId":"ATUid_9e20bd3f38e9781168f259949e7dc00a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+articale+example%2Aa+and+an%2Aa+and+for%2Afor&sessionId=ATUid_9e20bd3f38e9781168f259949e7dc00a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is articale example*a and an*a and for*for*by","sessionId":"ATUid_9e20bd3f38e9781168f259949e7dc00a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+articale+example%2Aa+and+an%2Aa+and+for%2Afor%2Aby&sessionId=ATUid_9e20bd3f38e9781168f259949e7dc00a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is articale example*a and an*a and for*for*by*A","sessionId":"ATUid_9e20bd3f38e9781168f259949e7dc00a","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+articale+example%2Aa+and+an%2Aa+and+for%2Afor%2Aby%2AA&sessionId=ATUid_9e20bd3f38e9781168f259949e7dc00a&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_ef1f3a5259cb2a881b62e46d3d54cc38","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_ef1f3a5259cb2a881b62e46d3d54cc38&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_de60006951d3920ba7b4d7b6d3b1e889","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_de60006951d3920ba7b4d7b6d3b1e889&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_de60006951d3920ba7b4d7b6d3b1e889","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_de60006951d3920ba7b4d7b6d3b1e889&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*0","sessionId":"ATUid_de60006951d3920ba7b4d7b6d3b1e889","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A0&sessionId=ATUid_de60006951d3920ba7b4d7b6d3b1e889&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_68d821287c87e9b67e479d9569593a5f","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_68d821287c87e9b67e479d9569593a5f&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_68d821287c87e9b67e479d9569593a5f","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_68d821287c87e9b67e479d9569593a5f&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo","sessionId":"ATUid_68d821287c87e9b67e479d9569593a5f","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo&sessionId=ATUid_68d821287c87e9b67e479d9569593a5f&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_2f12ef9994ad1bddbc7fe0756d6e349b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_2f12ef9994ad1bddbc7fe0756d6e349b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_2f12ef9994ad1bddbc7fe0756d6e349b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_2f12ef9994ad1bddbc7fe0756d6e349b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo","sessionId":"ATUid_2f12ef9994ad1bddbc7fe0756d6e349b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo&sessionId=ATUid_2f12ef9994ad1bddbc7fe0756d6e349b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo*php data object","sessionId":"ATUid_2f12ef9994ad1bddbc7fe0756d6e349b","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo%2Aphp+data+object&sessionId=ATUid_2f12ef9994ad1bddbc7fe0756d6e349b&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_4566a30db2236d98208e68b6a0cbb872","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_4566a30db2236d98208e68b6a0cbb872&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_4566a30db2236d98208e68b6a0cbb872","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_4566a30db2236d98208e68b6a0cbb872&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*0","sessionId":"ATUid_4566a30db2236d98208e68b6a0cbb872","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A0&sessionId=ATUid_4566a30db2236d98208e68b6a0cbb872&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*0*1","sessionId":"ATUid_4566a30db2236d98208e68b6a0cbb872","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A0%2A1&sessionId=ATUid_4566a30db2236d98208e68b6a0cbb872&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_53b06f3437f58556b7419c5bc52c89b6","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_53b06f3437f58556b7419c5bc52c89b6&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1","sessionId":"ATUid_53b06f3437f58556b7419c5bc52c89b6","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1&sessionId=ATUid_53b06f3437f58556b7419c5bc52c89b6&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo","sessionId":"ATUid_53b06f3437f58556b7419c5bc52c89b6","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo&sessionId=ATUid_53b06f3437f58556b7419c5bc52c89b6&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo*php data object","sessionId":"ATUid_53b06f3437f58556b7419c5bc52c89b6","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo%2Aphp+data+object&sessionId=ATUid_53b06f3437f58556b7419c5bc52c89b6&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo*php data object*hei","sessionId":"ATUid_53b06f3437f58556b7419c5bc52c89b6","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo%2Aphp+data+object%2Ahei&sessionId=ATUid_53b06f3437f58556b7419c5bc52c89b6&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo*php data object*hei*php","sessionId":"ATUid_53b06f3437f58556b7419c5bc52c89b6","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo%2Aphp+data+object%2Ahei%2Aphp&sessionId=ATUid_53b06f3437f58556b7419c5bc52c89b6&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo*php data object*hei*php*none","sessionId":"ATUid_53b06f3437f58556b7419c5bc52c89b6","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo%2Aphp+data+object%2Ahei%2Aphp%2Anone&sessionId=ATUid_53b06f3437f58556b7419c5bc52c89b6&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"1*what is pdo*php data object*hei*php*none*A","sessionId":"ATUid_53b06f3437f58556b7419c5bc52c89b6","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=1%2Awhat+is+pdo%2Aphp+data+object%2Ahei%2Aphp%2Anone%2AA&sessionId=ATUid_53b06f3437f58556b7419c5bc52c89b6&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"","sessionId":"ATUid_809eb65fc7fae69997d89a0daf7323bb","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=&sessionId=ATUid_809eb65fc7fae69997d89a0daf7323bb&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2","sessionId":"ATUid_809eb65fc7fae69997d89a0daf7323bb","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2&sessionId=ATUid_809eb65fc7fae69997d89a0daf7323bb&networkCode=99999
+POST: {"phoneNumber":"+250722434956","serviceCode":"*384*15885#","text":"2*3","sessionId":"ATUid_809eb65fc7fae69997d89a0daf7323bb","networkCode":"99999"}
+GET: []
+RAW: phoneNumber=%2B250722434956&serviceCode=%2A384%2A15885%23&text=2%2A3&sessionId=ATUid_809eb65fc7fae69997d89a0daf7323bb&networkCode=99999
